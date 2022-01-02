@@ -1,3 +1,3 @@
 # Algorithmic Question: Sum of two digits.
 1 uses input, int() function.
-2 adds split() function.
+2 adds split() function compared to 1.
