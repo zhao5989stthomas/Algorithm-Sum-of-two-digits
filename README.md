@@ -1,10 +1,6 @@
 # Algorithmic Question: Sum of Two Digits Problem.
 
-Compute the sum of two single digit numbers.
-
-Input: Two single digit numbers. 
-
-Output: The sum of these num- bers.
+Question: Compute the sum of two single digit numbers. Input: Two single digit numbers. Output: The sum of these numbers.
 
 APlusB_1.py uses input, int() function.
 
