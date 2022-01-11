@@ -8,7 +8,7 @@ APlusB_2.py adds split() function compared to 1.
 
 APlusB.py comes from textbook.
 
-APlusB_3.py uses split(), sys.stdin
+APlusB_3.py uses split(), int(), sys.stdin.readline().
 
 Pseudocode:
 
