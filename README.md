@@ -6,7 +6,7 @@ APlusB_1.py uses input, int() function.
 
 APlusB_2.py adds split() function compared to 1.
 
-APlusB.py comes from textbook.
+APlusB.py comes from textbook implementing map(int, input().split()).
 
 APlusB_3.py uses split(), int(), sys.stdin.readline().
 
