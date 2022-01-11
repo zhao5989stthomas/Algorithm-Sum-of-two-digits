@@ -11,5 +11,7 @@ APlusB.py comes from textbook puzzle waiting for solving.
 APlusB_3.py is the solution to APlusB.py
 
 Pseudocode:
+
 SumOfTwoDigits(a,b):
+
 return a+b
