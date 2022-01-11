@@ -1,5 +1,4 @@
 # python3
-import AplusB_3.py
 
 def sum_of_two_digits(first_digit, second_digit):
     return first_digit + second_digit
